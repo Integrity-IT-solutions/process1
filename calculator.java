@@ -1,5 +1,5 @@
 HEAD
-/*this will added */
+/*this will added  maintain a object*/
 import java.util.Scanner;
 
  public class calculator
